@@ -80,11 +80,11 @@ This exercise demonstrated a complete workflow involving:
 * Protected PDF analysis
 * Practical cybersecurity tooling
 
-The exercise also reinforced the importance of using strong passwords because weak passwords can be susceptible to offline password-recovery techniques.
+The exercise also reinforced the importance of using strong passwords because weak passwords are susceptible to offline password-recovery techniques.
 
 ## Ethical Considerations
 
-Password-cracking techniques should only be used in authorized environments, such as personal files, security laboratories or systems for which explicit permission has been granted.
+Password-cracking techniques should only be used in authorized environments, such as personal files, security laboratories, or systems for which explicit permission has been granted.
 
 This project was completed as part of an authorized NetworkWalks cybersecurity learning assignment.
 
@@ -96,5 +96,4 @@ NetworkWalks Ethical Hacking Week 3 Assignment.
 
 **Adio Kabiru**
 
-Network Engineer | Network Security | Cybersecurity | Network Security
-
+Network Engineer | Network Security | Cybersecurity | Telecommunication Engineer
